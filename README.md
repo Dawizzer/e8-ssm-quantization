@@ -88,7 +88,7 @@ README.md          — This file
 ### Synthetic (no GPU required — runs in under 60 seconds)
 
 ```bash
-git clone https://github.com/Dawizzer/e8-ssm-quantization
+git clone https://github.com/Dwayne Foulstone/e8-ssm-quantization
 cd e8-ssm-quantization
 
 python -m venv e8env
@@ -223,7 +223,7 @@ MIT — use it, build on it, cite it if it helps you.
   year   = {2026},
   month  = {March},
   note   = {Independent research. Proof of concept.
-            github.com/Dawizzer/e8-ssm-quantization}
+            github.com/Dwayne Foulstone/e8-ssm-quantization}
 }
 ```
 
