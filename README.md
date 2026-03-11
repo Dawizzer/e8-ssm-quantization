@@ -198,6 +198,7 @@ Bits |   E8 SNR | Scalar SNR |  E8 advantage | Verdict
 **Concept and hypothesis:** Dwayne (Melbourne, AU) — March 2026
 **Implementation:** Claude Sonnet 4.6 (Anthropic) — used as research tool
 **No institutional affiliation.** Independent research.
+License: Non-commercial research. Commercial inquiries: github.com/Dawizzer
 
 The core idea — applying E8 lattice geometry to SSM state compression as a
 solution to the lossy memory fingerprint problem — originated in a single
@@ -210,7 +211,9 @@ It did.
 
 ## License
 
-MIT — use it, build on it, cite it if it helps you.
+Non-commercial research license. Free for research and personal use.
+Commercial use requires written agreement with Dwayne N Foulstone.
+See LICENSE file for full terms.
 
 ---
 
