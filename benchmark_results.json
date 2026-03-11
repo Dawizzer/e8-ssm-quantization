@@ -1,0 +1,48 @@
+{
+  "seed": 42,
+  "mode": "real",
+  "bit_rate_sweep": [
+    {
+      "bits": 2,
+      "e8_mean_snr_db": 14.036480188369751,
+      "scalar_mean_snr_db": 0.0017419489013263956,
+      "e8_advantage_db": 14.034738239468425,
+      "verdict": "E8 WINS"
+    },
+    {
+      "bits": 3,
+      "e8_mean_snr_db": 17.306437492370605,
+      "scalar_mean_snr_db": 1.496178612112999,
+      "e8_advantage_db": 15.810258880257607,
+      "verdict": "E8 WINS"
+    },
+    {
+      "bits": 4,
+      "e8_mean_snr_db": 21.26302146911621,
+      "scalar_mean_snr_db": 9.660637736320496,
+      "e8_advantage_db": 11.602383732795715,
+      "verdict": "E8 WINS"
+    },
+    {
+      "bits": 5,
+      "e8_mean_snr_db": 26.766955375671387,
+      "scalar_mean_snr_db": 16.23004412651062,
+      "e8_advantage_db": 10.536911249160767,
+      "verdict": "E8 WINS"
+    },
+    {
+      "bits": 6,
+      "e8_mean_snr_db": 32.56748723983765,
+      "scalar_mean_snr_db": 22.590024948120117,
+      "e8_advantage_db": 9.97746229171753,
+      "verdict": "E8 WINS"
+    },
+    {
+      "bits": 8,
+      "e8_mean_snr_db": 34.00722408294678,
+      "scalar_mean_snr_db": 34.425944328308105,
+      "e8_advantage_db": -0.4187202453613281,
+      "verdict": "scalar wins"
+    }
+  ]
+}
