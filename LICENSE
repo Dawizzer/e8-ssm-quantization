@@ -1,21 +1,66 @@
-MIT License
+Copyright (c) 2026 Dwayne N Foulstone. All rights reserved.
 
-Copyright (c) 2026 Dawizzer
+E8 Lattice Quantization for SSM Hidden States
+Original concept and hypothesis by Dwayne N Foulstone, Melbourne, AU.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+NON-COMMERCIAL RESEARCH LICENSE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the "Software"),
+to use, copy, modify, and distribute the Software strictly for the
+following permitted purposes:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  1. Personal, academic, or non-commercial research use
+  2. Educational purposes
+  3. Evaluation and benchmarking for non-commercial purposes
+
+Subject to the following conditions:
+
+  A. ATTRIBUTION — All copies, modifications, or derivative works must
+     include the following notice, clearly visible in documentation,
+     source code headers, and any publications:
+
+       "Based on original work by Dwayne N Foulstone (2026).
+        github.com/Dawizzer/e8-ssm-quantization"
+
+  B. NON-COMMERCIAL — Commercial use of the Software, in whole or in
+     part, is strictly prohibited without a separate written commercial
+     license agreement signed by Dwayne N Foulstone.
+
+  C. SHARE-ALIKE — Any derivative works or modifications distributed
+     publicly must be released under this same license.
+
+  D. NO SUBLICENSING — You may not sublicense, sell, or transfer rights
+     granted under this license to any third party.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+COMMERCIAL LICENSING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Commercial use includes but is not limited to:
+
+  - Incorporation into a commercial product or service
+  - Use in a production AI system operated for profit
+  - Use by a for-profit organisation beyond evaluation purposes
+  - Training or fine-tuning commercial models using this method
+  - Offering this method as a paid service or API
+
+To obtain a commercial license, contact:
+
+  Dwayne N Foulstone
+  github.com/Dawizzer
+  Melbourne, AU
+
+Commercial license terms are negotiated individually. Attribution to
+Dwayne N Foulstone as the originating inventor is required under all
+commercial license agreements.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DISCLAIMER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. IN NO EVENT SHALL DWAYNE N FOULSTONE BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM USE OF THE SOFTWARE.
