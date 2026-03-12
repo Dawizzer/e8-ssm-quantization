@@ -1,0 +1,22 @@
+{
+  "date": "2026-03-12T21:57:35.133859",
+  "model": "state-spaces/mamba-130m",
+  "task": "lambada_openai",
+  "version": "v2_multi_strategy",
+  "gpu": "NVIDIA GeForce RTX 5090",
+  "results": {
+    "fp16 baseline": 30.17659615757811,
+    "E8 4-bit (layer-bdry)": 29.885503590141667,
+    "Scalar 4-bit (layer-bdry)": 0.0,
+    "E8 2-bit (layer-bdry)": 26.23714341160489,
+    "Scalar 2-bit (layer-bdry)": 0.0,
+    "E8 4-bit (every-16)": 3.648360178536775,
+    "Scalar 4-bit (every-16)": 0.46574810789831167
+  },
+  "quantizer_scales": {
+    "e8_2bit": 0.261248879134655,
+    "scalar_2bit": 18.205121994018555,
+    "e8_4bit": 0.06531221978366375,
+    "scalar_4bit": 4.551280498504639
+  }
+}
